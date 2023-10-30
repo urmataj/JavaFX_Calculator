@@ -1,7 +1,7 @@
 # JavaFX_Calculator
 A JavaFX calculator application that can perform basic arithmetic operations (addition, subtraction, multiplication, division by using SceneBuilder. It contains four files:
 
-# Calculator
+# Calculator class
 The class that will handle the core logic of the calculator. Its instance variables:
 
 - double operand1 (to store the first operand)
