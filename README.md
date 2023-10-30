@@ -7,6 +7,6 @@ The class responsible for launching the application and loading your FXML.
 # FXML file
 Responsible for what the application displays.
 
-# CalculatorController
+# CalculatorController class
 FXML and java code adapter.
 The class that is a layer between the java code and the FXML file. All fx:id links are connected through it, calls to interactive interface elements are processed in its methods, and initialization occurs immediately.
